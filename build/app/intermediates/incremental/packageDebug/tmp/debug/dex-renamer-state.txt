@@ -1,0 +1,4 @@
+#Wed Jun 14 16:35:32 IST 2023
+base.0=C\:\\Users\\rajug\\Desktop\\Temporary files\\Mausam App\\mausam_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

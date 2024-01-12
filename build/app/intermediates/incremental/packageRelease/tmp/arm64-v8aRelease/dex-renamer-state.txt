@@ -1,0 +1,4 @@
+#Sun Jun 11 12:57:36 IST 2023
+base.0=C\:\\Users\\rajug\\Desktop\\Temporary files\\Mausam App\\mausam_app\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
